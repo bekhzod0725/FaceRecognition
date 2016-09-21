@@ -8,7 +8,7 @@ The project consists of the following:
  1. [LFW](https://github.com/bekhzod0725/FaceRecognition/tree/master/LFW): Labeled Faces in the Wild dataset facial recognition
     - For more info visit: [LFW Website](http://vis-www.cs.umass.edu/lfw/)
  2. [Lookalike](https://github.com/bekhzod0725/FaceRecognition/tree/master/Lookalike): Lookalike people dataset
-    - The dataset contains the images of celebrities and their lookalikes. The task is to differentiate the actual people from their impostors.
+    - The dataset contains the images of celebrities and their lookalikes. The task is to differentiate the actual people from their impostors. Source: [IAB](http://iab-rubric.org/resources.html#face)
  
 
 Lookalike People's dataset is attached to this project for convenience. In order to run the lookalike.py file, LADatabase.rar has to be extracted into the same folder where lookalike.py, lookalike_ext.py, and load_data.py are located.
