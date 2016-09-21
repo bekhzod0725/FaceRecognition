@@ -1,6 +1,6 @@
 # Deep Learning Convolutional Neural Networks Using Scikit/Skflow, Tensorflow and NumPy
 
-<div style="display:block; width: 20%; float: right;">
+<div style="display:block; width: 20%; text-align:right; float: right;">
 For more information please feel free to read my <a href="http://bekhzod0725.github.io/assets/facial_recognition_paper.pdf">Facial Recognition with Deep Learning Paper</a>
 </div>
 
