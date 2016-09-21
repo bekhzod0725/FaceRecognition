@@ -20,4 +20,4 @@ Lookalike People's dataset is attached to this project for convenience. In order
 <img src="https://pbs.twimg.com/profile_images/1105548722/scikit-learn-logo_400x400.png" width=50px height=50px />
 <img src="http://www.scipy.org/_static/images/numpylogo_med.png" width=50px height=50px />
 
-Project was done using Google's Tensorflow API for Deep Learning algorithms. In addition, Python libraries such as NumPy, SciPy and Scikit-Learn are  needed to run the programs.
+Project was done using Google's **Tensorflow** API for Deep Learning algorithms. In addition, **Python** libraries such as **NumPy**, **SciPy** and **Scikit-Learn** are needed to run the programs.
